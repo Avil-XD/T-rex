@@ -2,6 +2,9 @@
 
 A modern implementation of the classic Chrome dinosaur game built with p5.js. Features responsive design, accessibility improvements, and touch support.
 
+# How to run?
+**Click on this link to run the game.**  👉  [T-Rex Runner](https://avil-xd.github.io/T-rex/)
+
 ## 🎮 Features
 
 - Classic T-Rex running and jumping gameplay
